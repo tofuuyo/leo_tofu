@@ -55,7 +55,10 @@
 - C语言字符串：char 变量名 = "字符串值"
 - C++&emsp;字符串：string 变量名 = "字符串值'
 
-### 6.布尔类型bool （布尔数据类型表示真或加）
+### 6.布尔类型bool （布尔数据类型表示真或假的值）
+- 布尔数据类型占用一个字节
+- **true**：表示真，本质是1
+- **
 
 
 
@@ -63,9 +66,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg1OTA2NTcsNTgxMjQyNTIsLTc0MT
-A0NzY2NywtNzA5NDUwMzczLDE2Mzc2MjExODQsMTY5ODQ1MjA3
-NywxMTQyMDUyMDgzLC04NDEzOTE1NTUsNTE2MjgyMzQzLC0xNz
-U3OTMzNDI1LC03NDEwMjU0NCwtMTA3NzM2NjI4NiwxMzcyNTQy
-NjU3LC0xMjgyNTE1NzYyXX0=
+eyJoaXN0b3J5IjpbNTA1NzkxNzY2LDU4MTI0MjUyLC03NDEwND
+c2NjcsLTcwOTQ1MDM3MywxNjM3NjIxMTg0LDE2OTg0NTIwNzcs
+MTE0MjA1MjA4MywtODQxMzkxNTU1LDUxNjI4MjM0MywtMTc1Nz
+kzMzQyNSwtNzQxMDI1NDQsLTEwNzczNjYyODYsMTM3MjU0MjY1
+NywtMTI4MjUxNTc2Ml19
 -->
