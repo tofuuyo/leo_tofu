@@ -29,7 +29,7 @@
 | :----- | :------: | -----: |
 | short   | 2字节   | -2^15 ~ 2^15-1 |
 | int | 4字节 | -2^31 ~ 2^31-1 |
-| long |win为  |  |
+| long |win为4字节，lin为4字节（32位）和8字节（64位）  |  |
 |  |  |  |
 
 
@@ -37,7 +37,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTYzMDEyNSw1MTYyODIzNDMsLTE3NT
-c5MzM0MjUsLTc0MTAyNTQ0LC0xMDc3MzY2Mjg2LDEzNzI1NDI2
-NTcsLTEyODI1MTU3NjJdfQ==
+eyJoaXN0b3J5IjpbLTEzMTE0MDY1MzYsNTE2MjgyMzQzLC0xNz
+U3OTMzNDI1LC03NDEwMjU0NCwtMTA3NzM2NjI4NiwxMzcyNTQy
+NjU3LC0xMjgyNTE1NzYyXX0=
 -->
