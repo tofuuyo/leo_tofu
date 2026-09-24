@@ -41,7 +41,9 @@
 |double|8字节|15~16位有效数字|
 - 科学计数法：3e2 = 3 * 10^2		&emsp;&emsp;3e2 = 3*10^-2
 
-### 3.字符型
+### 3.字符型（字符型变量用于显示单个字符）
+- 语法：char ch = 'a';
+- zhuy
 
 
 
@@ -49,8 +51,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTE5ODc2NiwxNjM3NjIxMTg0LDE2OT
-g0NTIwNzcsMTE0MjA1MjA4MywtODQxMzkxNTU1LDUxNjI4MjM0
-MywtMTc1NzkzMzQyNSwtNzQxMDI1NDQsLTEwNzczNjYyODYsMT
-M3MjU0MjY1NywtMTI4MjUxNTc2Ml19
+eyJoaXN0b3J5IjpbLTEwNTAwMzUyLDE2Mzc2MjExODQsMTY5OD
+Q1MjA3NywxMTQyMDUyMDgzLC04NDEzOTE1NTUsNTE2MjgyMzQz
+LC0xNzU3OTMzNDI1LC03NDEwMjU0NCwtMTA3NzM2NjI4NiwxMz
+cyNTQyNjU3LC0xMjgyNTE1NzYyXX0=
 -->
