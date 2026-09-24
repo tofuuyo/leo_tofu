@@ -51,7 +51,7 @@
 - ** \t**：水平制表，换到下一个TAB键
 - **\\**：表示一个斜杠符号 
 
-### 5.zi'fu'chaung
+### 5.字符串型（用于表示一串字符）
 
 
 
@@ -59,9 +59,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA3ODg2MzksLTc0MTA0NzY2NywtNz
-A5NDUwMzczLDE2Mzc2MjExODQsMTY5ODQ1MjA3NywxMTQyMDUy
-MDgzLC04NDEzOTE1NTUsNTE2MjgyMzQzLC0xNzU3OTMzNDI1LC
-03NDEwMjU0NCwtMTA3NzM2NjI4NiwxMzcyNTQyNjU3LC0xMjgy
-NTE1NzYyXX0=
+eyJoaXN0b3J5IjpbNDE1NTIzMDc1LC03NDEwNDc2NjcsLTcwOT
+Q1MDM3MywxNjM3NjIxMTg0LDE2OTg0NTIwNzcsMTE0MjA1MjA4
+MywtODQxMzkxNTU1LDUxNjI4MjM0MywtMTc1NzkzMzQyNSwtNz
+QxMDI1NDQsLTEwNzczNjYyODYsMTM3MjU0MjY1NywtMTI4MjUx
+NTc2Ml19
 -->
