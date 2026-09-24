@@ -32,12 +32,15 @@
 | long |win为4字节，lin为4字节（32位）和8字节（64位）  |-2^31 ~ 2^31-1  |
 | longlong |8字节  |-2^63 ~ 2^63-1  |
 
+### 2.实型（用于表示小数）
+- 单精度float，双精度double
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTM5MTU1NSw1MTYyODIzNDMsLTE3NT
-c5MzM0MjUsLTc0MTAyNTQ0LC0xMDc3MzY2Mjg2LDEzNzI1NDI2
-NTcsLTEyODI1MTU3NjJdfQ==
+eyJoaXN0b3J5IjpbMzkwNTE2ODc4LC04NDEzOTE1NTUsNTE2Mj
+gyMzQzLC0xNzU3OTMzNDI1LC03NDEwMjU0NCwtMTA3NzM2NjI4
+NiwxMzcyNTQyNjU3LC0xMjgyNTE1NzYyXX0=
 -->
