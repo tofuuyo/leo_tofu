@@ -10,9 +10,10 @@
 7.结束main()函数的语句
  
  ## *变量*
- 内存空间qi'ming
+- 内存空间起名操作
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxOTQ3NzA0LC0xMjgyNTE1NzYyXX0=
+eyJoaXN0b3J5IjpbLTM2NTY5NDA4OCwtMTI4MjUxNTc2Ml19
 -->
