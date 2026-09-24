@@ -33,14 +33,17 @@
 | longlong |8字节  |-2^63 ~ 2^63-1  |
 
 ### 2.实型（用于表示小数）
-- 单精度float，双精度double
+- 单精度float，双精度double。两者表示的有效数字范围不同。
+| 数据类型| 占用空间 | 取值范围 |
+| :----- | :------: | -----: |
+|float|||
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwNTE2ODc4LC04NDEzOTE1NTUsNTE2Mj
-gyMzQzLC0xNzU3OTMzNDI1LC03NDEwMjU0NCwtMTA3NzM2NjI4
-NiwxMzcyNTQyNjU3LC0xMjgyNTE1NzYyXX0=
+eyJoaXN0b3J5IjpbLTY1MzgyNjQyMiwtODQxMzkxNTU1LDUxNj
+I4MjM0MywtMTc1NzkzMzQyNSwtNzQxMDI1NDQsLTEwNzczNjYy
+ODYsMTM3MjU0MjY1NywtMTI4MjUxNTc2Ml19
 -->
