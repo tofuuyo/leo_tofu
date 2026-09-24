@@ -39,14 +39,17 @@
 | :-----       | :------:       | -----:       |
 |float|4字节|7位有效数字|
 |double|8字节|15~16位有效数字|
-- 科学计数法：3e2 = 3 * 10^2		&emsp;&emsp3e2 = 3*10^-2
+- 科学计数法：3e2 = 3 * 10^2		&emsp;&emsp;3e2 = 3*10^-2
+
+### 3.字符型
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTQzNTIwNywxNjM3NjIxMTg0LDE2OT
+eyJoaXN0b3J5IjpbMTU1NTE5ODc2NiwxNjM3NjIxMTg0LDE2OT
 g0NTIwNzcsMTE0MjA1MjA4MywtODQxMzkxNTU1LDUxNjI4MjM0
 MywtMTc1NzkzMzQyNSwtNzQxMDI1NDQsLTEwNzczNjYyODYsMT
 M3MjU0MjY1NywtMTI4MjUxNTc2Ml19
