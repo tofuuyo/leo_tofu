@@ -39,15 +39,15 @@
 | :-----       | :------:       | -----:       |
 |float|4字节|7位有效数字|
 |double|8字节|15~16位有效数字|
-- 科学计数法：
+- 科学计数法：3e2 = 3 * 10^2
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTgzMDg0NywxNjk4NDUyMDc3LDExND
-IwNTIwODMsLTg0MTM5MTU1NSw1MTYyODIzNDMsLTE3NTc5MzM0
-MjUsLTc0MTAyNTQ0LC0xMDc3MzY2Mjg2LDEzNzI1NDI2NTcsLT
-EyODI1MTU3NjJdfQ==
+eyJoaXN0b3J5IjpbMzcwNTE4MTE4LDE2OTg0NTIwNzcsMTE0Mj
+A1MjA4MywtODQxMzkxNTU1LDUxNjI4MjM0MywtMTc1NzkzMzQy
+NSwtNzQxMDI1NDQsLTEwNzczNjYyODYsMTM3MjU0MjY1NywtMT
+I4MjUxNTc2Ml19
 -->
