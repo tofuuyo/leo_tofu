@@ -39,14 +39,15 @@
 | :-----       | :------:       | -----:       |
 |float|4字节|7位有效数字|
 |double|8字节|15~16位有效数字|
+- 科学计数法：
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODQ1MjA3NywxMTQyMDUyMDgzLC04ND
-EzOTE1NTUsNTE2MjgyMzQzLC0xNzU3OTMzNDI1LC03NDEwMjU0
-NCwtMTA3NzM2NjI4NiwxMzcyNTQyNjU3LC0xMjgyNTE1NzYyXX
-0=
+eyJoaXN0b3J5IjpbMTUzNTgzMDg0NywxNjk4NDUyMDc3LDExND
+IwNTIwODMsLTg0MTM5MTU1NSw1MTYyODIzNDMsLTE3NTc5MzM0
+MjUsLTc0MTAyNTQ0LC0xMDc3MzY2Mjg2LDEzNzI1NDI2NTcsLT
+EyODI1MTU3NjJdfQ==
 -->
