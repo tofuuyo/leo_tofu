@@ -46,7 +46,8 @@
 - 注意：字符要用单引号而非双引号，并且只能有一个字符不能是字符串
 - C和C++中字符只占用一个字节，字符型变量是把字符对应的ASCII码放到存储单元\
 
-### 4.转义字符（用于表示一些不能显示的ASCIIzi'fu）
+### 4.转义字符（用于表示一些不能显示的ASCII字符）
+- \n
 
 
 
@@ -54,8 +55,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTU1NTk4MiwtNzA5NDUwMzczLDE2Mz
-c2MjExODQsMTY5ODQ1MjA3NywxMTQyMDUyMDgzLC04NDEzOTE1
-NTUsNTE2MjgyMzQzLC0xNzU3OTMzNDI1LC03NDEwMjU0NCwtMT
-A3NzM2NjI4NiwxMzcyNTQyNjU3LC0xMjgyNTE1NzYyXX0=
+eyJoaXN0b3J5IjpbNzI2MDcxOTczLC03MDk0NTAzNzMsMTYzNz
+YyMTE4NCwxNjk4NDUyMDc3LDExNDIwNTIwODMsLTg0MTM5MTU1
+NSw1MTYyODIzNDMsLTE3NTc5MzM0MjUsLTc0MTAyNTQ0LC0xMD
+c3MzY2Mjg2LDEzNzI1NDI2NTcsLTEyODI1MTU3NjJdfQ==
 -->
