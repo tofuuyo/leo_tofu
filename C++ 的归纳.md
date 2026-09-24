@@ -58,7 +58,7 @@
 ### 6.布尔类型bool （布尔数据类型表示真或假的值）
 - 布尔数据类型占用一个字节
 - **true**：表示真，本质是1
-- **
+- **false**：表示假，本质是0
 
 
 
@@ -66,7 +66,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1NzkxNzY2LDU4MTI0MjUyLC03NDEwND
+eyJoaXN0b3J5IjpbNDE2MTYwMjAzLDU4MTI0MjUyLC03NDEwND
 c2NjcsLTcwOTQ1MDM3MywxNjM3NjIxMTg0LDE2OTg0NTIwNzcs
 MTE0MjA1MjA4MywtODQxMzkxNTU1LDUxNjI4MjM0MywtMTc1Nz
 kzMzQyNSwtNzQxMDI1NDQsLTEwNzczNjYyODYsMTM3MjU0MjY1
