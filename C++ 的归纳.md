@@ -53,7 +53,7 @@
 
 ### 5.字符串型（用于表示一串字符）
 - C语言字符串：char 变量名 = "字符串值"
-- C++&emsp;字符串：string
+- C++&emsp;字符串：string 变量名 = "字符串值'
 
 
 
@@ -61,9 +61,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Nzk1ODc2MSwtNzQxMDQ3NjY3LC03MD
-k0NTAzNzMsMTYzNzYyMTE4NCwxNjk4NDUyMDc3LDExNDIwNTIw
-ODMsLTg0MTM5MTU1NSw1MTYyODIzNDMsLTE3NTc5MzM0MjUsLT
-c0MTAyNTQ0LC0xMDc3MzY2Mjg2LDEzNzI1NDI2NTcsLTEyODI1
-MTU3NjJdfQ==
+eyJoaXN0b3J5IjpbNTgxMjQyNTIsLTc0MTA0NzY2NywtNzA5ND
+UwMzczLDE2Mzc2MjExODQsMTY5ODQ1MjA3NywxMTQyMDUyMDgz
+LC04NDEzOTE1NTUsNTE2MjgyMzQzLC0xNzU3OTMzNDI1LC03ND
+EwMjU0NCwtMTA3NzM2NjI4NiwxMzcyNTQyNjU3LC0xMjgyNTE1
+NzYyXX0=
 -->
