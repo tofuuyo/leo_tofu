@@ -24,13 +24,17 @@
 
 ## *数据类型*（给变量分配合适的内存空间）
 ### 1.整型
-|数据类型|占用空间|取值范围|
+
+| 数据类型| 占用空间 | 取值范围 |
+| :----- | :------: | -----: |
+| short   |      | 文本   |
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzUzMzg2Miw1MTYyODIzNDMsLTE3NT
+eyJoaXN0b3J5IjpbMTU4NDk1MDYwMSw1MTYyODIzNDMsLTE3NT
 c5MzM0MjUsLTc0MTAyNTQ0LC0xMDc3MzY2Mjg2LDEzNzI1NDI2
 NTcsLTEyODI1MTU3NjJdfQ==
 -->
