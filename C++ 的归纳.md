@@ -52,7 +52,8 @@
 - **\\**：表示一个斜杠符号 
 
 ### 5.字符串型（用于表示一串字符）
-- C风格字符串：char bi'a
+- C语言字符串：char 变量名 = "字符串值"
+- C++&emsp;字符串：string
 
 
 
@@ -60,9 +61,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0OTU1NTE1LC03NDEwNDc2NjcsLTcwOT
-Q1MDM3MywxNjM3NjIxMTg0LDE2OTg0NTIwNzcsMTE0MjA1MjA4
-MywtODQxMzkxNTU1LDUxNjI4MjM0MywtMTc1NzkzMzQyNSwtNz
-QxMDI1NDQsLTEwNzczNjYyODYsMTM3MjU0MjY1NywtMTI4MjUx
-NTc2Ml19
+eyJoaXN0b3J5IjpbLTk4Nzk1ODc2MSwtNzQxMDQ3NjY3LC03MD
+k0NTAzNzMsMTYzNzYyMTE4NCwxNjk4NDUyMDc3LDExNDIwNTIw
+ODMsLTg0MTM5MTU1NSw1MTYyODIzNDMsLTE3NTc5MzM0MjUsLT
+c0MTAyNTQ0LC0xMDc3MzY2Mjg2LDEzNzI1NDI2NTcsLTEyODI1
+MTU3NjJdfQ==
 -->
