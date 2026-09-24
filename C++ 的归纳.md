@@ -11,9 +11,9 @@
  
  ## *变量*
 - 内存空间起名操作
-
+	1.变量创建的语法：数据类型		变量名	= 		变量初始值:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTY5NDA4OCwtMTI4MjUxNTc2Ml19
+eyJoaXN0b3J5IjpbLTE2NTU4ODUwNSwtMTI4MjUxNTc2Ml19
 -->
