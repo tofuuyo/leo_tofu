@@ -38,14 +38,14 @@
 | 数据类型| 占用空间 | 取值范围 |
 | :-----       | :------:       | -----:       |
 |float|4字节|7位有效数字|
-|double|8字节||
+|double|8字节|15~16位有效数字|
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzA5NTMwMywxMTQyMDUyMDgzLC04ND
+eyJoaXN0b3J5IjpbMTY5ODQ1MjA3NywxMTQyMDUyMDgzLC04ND
 EzOTE1NTUsNTE2MjgyMzQzLC0xNzU3OTMzNDI1LC03NDEwMjU0
 NCwtMTA3NzM2NjI4NiwxMzcyNTQyNjU3LC0xMjgyNTE1NzYyXX
 0=
