@@ -28,16 +28,16 @@
 | 数据类型| 占用空间 | 取值范围 |
 | :----- | :------: | -----: |
 | short   | 2字节   | -2^15 ~ 2^15-1 |
-| int | 4字节 | -2^31 ~ 2^31 |
-| :----- | :------: | -----: |
-| :----- | :------: | -----: |
+| int | 4字节 | -2^31 ~ 2^31-1 |
+| long |win为  |  |
+|  |  |  |
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ5MzkzNSw1MTYyODIzNDMsLTE3NT
+eyJoaXN0b3J5IjpbLTgyOTYzMDEyNSw1MTYyODIzNDMsLTE3NT
 c5MzM0MjUsLTc0MTAyNTQ0LC0xMDc3MzY2Mjg2LDEzNzI1NDI2
 NTcsLTEyODI1MTU3NjJdfQ==
 -->
