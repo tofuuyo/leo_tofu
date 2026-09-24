@@ -35,15 +35,15 @@
 ### 2.实型（用于表示小数）
 - 单精度float，双精度double。两者表示的有效数字范围不同。
 | 数据类型| 占用空间 | 取值范围 |
-| :----- | :------: | -----: |
-|float|||
+| :-----       | :------:       | -----:       |
+|float|4字节|7位有效数字|
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzgyNjQyMiwtODQxMzkxNTU1LDUxNj
+eyJoaXN0b3J5IjpbMTE0MjA1MjA4MywtODQxMzkxNTU1LDUxNj
 I4MjM0MywtMTc1NzkzMzQyNSwtNzQxMDI1NDQsLTEwNzczNjYy
 ODYsMTM3MjU0MjY1NywtMTI4MjUxNTc2Ml19
 -->
