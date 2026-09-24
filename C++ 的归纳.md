@@ -19,11 +19,12 @@
 	>const 数据类型   常量名  =   常量值;
 
 ## *关键字*
-- 
+- 变量mi
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc5MzM0MjUsLTc0MTAyNTQ0LC0xMD
-c3MzY2Mjg2LDEzNzI1NDI2NTcsLTEyODI1MTU3NjJdfQ==
+eyJoaXN0b3J5IjpbMTQxMzA2NTMwOCwtMTc1NzkzMzQyNSwtNz
+QxMDI1NDQsLTEwNzczNjYyODYsMTM3MjU0MjY1NywtMTI4MjUx
+NTc2Ml19
 -->
