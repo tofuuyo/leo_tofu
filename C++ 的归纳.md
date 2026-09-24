@@ -44,7 +44,7 @@
 ### 3.字符型（字符型变量用于显示单个字符）
 - 语法：char ch = 'a';
 - 注意：字符要用单引号而非双引号，并且只能有一个字符不能是字符串
-- C和C++中字符只占用一个字节，
+- C和C++中字符只占用一个字节，字符型变量是把字符对应的ASCII码放到存储单元
 
 
 
@@ -52,7 +52,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTEyMzE2MSwxNjM3NjIxMTg0LDE2OT
+eyJoaXN0b3J5IjpbLTcwOTQ1MDM3MywxNjM3NjIxMTg0LDE2OT
 g0NTIwNzcsMTE0MjA1MjA4MywtODQxMzkxNTU1LDUxNjI4MjM0
 MywtMTc1NzkzMzQyNSwtNzQxMDI1NDQsLTEwNzczNjYyODYsMT
 M3MjU0MjY1NywtMTI4MjUxNTc2Ml19
