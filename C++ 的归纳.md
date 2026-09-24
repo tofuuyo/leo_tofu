@@ -52,6 +52,7 @@
 - **\\**：表示一个斜杠符号 
 
 ### 5.字符串型（用于表示一串字符）
+- C风格字符串：char bi'a
 
 
 
@@ -59,7 +60,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1NTIzMDc1LC03NDEwNDc2NjcsLTcwOT
+eyJoaXN0b3J5IjpbMjk0OTU1NTE1LC03NDEwNDc2NjcsLTcwOT
 Q1MDM3MywxNjM3NjIxMTg0LDE2OTg0NTIwNzcsMTE0MjA1MjA4
 MywtODQxMzkxNTU1LDUxNjI4MjM0MywtMTc1NzkzMzQyNSwtNz
 QxMDI1NDQsLTEwNzczNjYyODYsMTM3MjU0MjY1NywtMTI4MjUx
