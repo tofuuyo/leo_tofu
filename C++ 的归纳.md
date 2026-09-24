@@ -47,7 +47,8 @@
 - C和C++中字符只占用一个字节，字符型变量是把字符对应的ASCII码放到存储单元\
 
 ### 4.转义字符（用于表示一些不能显示的ASCII字符）
-- \n
+-  **\n**：换行，将当前内容移到下一行
+- **
 
 
 
@@ -55,7 +56,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2MDcxOTczLC03MDk0NTAzNzMsMTYzNz
+eyJoaXN0b3J5IjpbNTczMjM5NzQ0LC03MDk0NTAzNzMsMTYzNz
 YyMTE4NCwxNjk4NDUyMDc3LDExNDIwNTIwODMsLTg0MTM5MTU1
 NSw1MTYyODIzNDMsLTE3NTc5MzM0MjUsLTc0MTAyNTQ0LC0xMD
 c3MzY2Mjg2LDEzNzI1NDI2NTcsLTEyODI1MTU3NjJdfQ==
