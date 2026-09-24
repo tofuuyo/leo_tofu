@@ -22,12 +22,13 @@
 - 变量命名时不能用关键字
 - 标识符命名规则：不能是关键字，只用字母、数字和下划线，第一个字符必须为字母，标识符字母区分大小写
 
-## *数据类型*
+## *数据类型*（给变量分配合适的内存空间）
 ### 1.整型
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTk1NTk0MiwtMTc1NzkzMzQyNSwtNz
-QxMDI1NDQsLTEwNzczNjYyODYsMTM3MjU0MjY1NywtMTI4MjUx
-NTc2Ml19
+eyJoaXN0b3J5IjpbNTE2MjgyMzQzLC0xNzU3OTMzNDI1LC03ND
+EwMjU0NCwtMTA3NzM2NjI4NiwxMzcyNTQyNjU3LC0xMjgyNTE1
+NzYyXX0=
 -->
