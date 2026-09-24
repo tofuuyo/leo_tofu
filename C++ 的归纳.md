@@ -12,12 +12,12 @@
  ## *变量和常量*
 - 内存空间起名操作
 	1.变量创建的语法：数据类型		变量名	= 		变量初始值;		![输入图片说明](/imgs/2026-09-24/KOA9qhJ9qp08ungP.png)
-	2.【1】#define 宏常量		d
+	2.【1】#define 宏常量		定义在文件上方表示一个常量
 	> #define 常量名	常量值
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NzgxNTI3LC0xMDc3MzY2Mjg2LDEzNz
-I1NDI2NTcsLTEyODI1MTU3NjJdfQ==
+eyJoaXN0b3J5IjpbLTk5MTgzNjAxNSwtMTA3NzM2NjI4NiwxMz
+cyNTQyNjU3LC0xMjgyNTE1NzYyXX0=
 -->
