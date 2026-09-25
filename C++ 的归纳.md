@@ -63,7 +63,19 @@
 ### 7.数据的输入（用于从键盘获取数据）
 - 语法：cin <<变量
 
-## *运算符*
+## *运算符*	(用于执行代码的运算)
+| 运算符类型| 作用 | 
+| :-----       | :------:       | 
+|算数运算符 | 用于处理四则运算 |
+|赋值运算符 | 用于将表达式的值赋给变量 |
+| 比较运算符| 用于表达式的比较，并返回一个真值或假值 |
+|逻辑运算符 |用于根据表达式的值返回真或假 |
+
+### 1.算术运算符
+
+
+
+
 
 
 
@@ -73,9 +85,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5MjEwOTM4LDE2OTcwNjI0MDUsNDE2MT
-YwMjAzLDU4MTI0MjUyLC03NDEwNDc2NjcsLTcwOTQ1MDM3Mywx
-NjM3NjIxMTg0LDE2OTg0NTIwNzcsMTE0MjA1MjA4MywtODQxMz
-kxNTU1LDUxNjI4MjM0MywtMTc1NzkzMzQyNSwtNzQxMDI1NDQs
-LTEwNzczNjYyODYsMTM3MjU0MjY1NywtMTI4MjUxNTc2Ml19
+eyJoaXN0b3J5IjpbMTg2OTMxNjA1OCwxNjk3MDYyNDA1LDQxNj
+E2MDIwMyw1ODEyNDI1MiwtNzQxMDQ3NjY3LC03MDk0NTAzNzMs
+MTYzNzYyMTE4NCwxNjk4NDUyMDc3LDExNDIwNTIwODMsLTg0MT
+M5MTU1NSw1MTYyODIzNDMsLTE3NTc5MzM0MjUsLTc0MTAyNTQ0
+LC0xMDc3MzY2Mjg2LDEzNzI1NDI2NTcsLTEyODI1MTU3NjJdfQ
+==
 -->
